@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 55" width="29" height="55">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Banner">
+		<path id="arrow l" class="shp0" d="M27.01 51.01L4.56 27.5L27.01 3.99L26.44 1.99L1.99 27.5L26.44 53.01L27.01 51.01Z" />
+	</g>
+</svg>
